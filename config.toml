@@ -1,5 +1,5 @@
-baseURL = "http://localhost:1313/"
-title = "Jane - A super concise theme for Hugo"
+baseURL = "https://pyladiesgr.github.io/website/"
+title = "PyLadies Grand Rapids"
 enableRobotsTXT = true
 enableEmoji = true
 theme = "jane"
