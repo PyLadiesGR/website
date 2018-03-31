@@ -1,4 +1,4 @@
-baseURL = "https://pyladiesgr.github.io/website/"
+baseURL = "https://grandrapids.pyladies.com/"
 title = "PyLadies Grand Rapids"
 enableRobotsTXT = true
 enableEmoji = true
