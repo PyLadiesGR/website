@@ -56,7 +56,7 @@ We wanted a fresh new design, so sticking with this years Django Girls Foundatio
 <br>
 [Toptal](https://www.toptal.com/) sponsored our photography this year, which included headshots for anyone participating in the workshop. Attendees and coaches alike seemed to really appreciate this service.
 
-![Photographer taking a headshot of attendee](/images/2018_headshot.jpg, "Photo by www.bryanesler.com" )
+![Photographer taking a headshot of attendee](/images/2018_headshot.jpg "Photo by www.bryanesler.com" )
 <br>
 
 ## Going forward
