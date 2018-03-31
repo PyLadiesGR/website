@@ -9,11 +9,12 @@ tags: [
     "themes",
     "development",
 ]
-categories: [
-    "Development",
-    "golang",
-    "index",
-]
+# categories: [
+#     "Development",
+#     "golang",
+#     "index",
+# ]
+draft: true
 ---
 
 
