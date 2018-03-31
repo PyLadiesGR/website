@@ -13,8 +13,6 @@ categories: [
     "index",
 ]
 draft: false
-notoc: false
-
 ---
 
 {{< youtube zKbeG8VWso4 >}}
