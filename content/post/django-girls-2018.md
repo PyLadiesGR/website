@@ -19,7 +19,7 @@ draft: false
 
 ## Numbers
 
-After a very sucessful first workshop in 2017, we decided to put on another Django Girls workshop on March 9th - 10th at Start Garden:
+After a very successful first workshop in 2017, we decided to put on another Django Girls workshop on March 9th - 10th at Start Garden:
 
 * 34 attendees
 * 16 sponsors
