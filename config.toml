@@ -4,20 +4,27 @@ enableRobotsTXT = true
 enableEmoji = true
 theme = "jane"
 
+# language support # en / zh-cn / other...
 defaultContentLanguage = "en"
+[Languages.en]
+  languageCode = "en"
 
-paginate = 3
-rssLimit = 20             # Limit Entry Count to Rss file
+hasCJKLanguage = true     # has chinese/japanese/korean ? # 自动检测是否包含 中文\日文\韩文
+paginate = 3                                              # 首页每页显示的文章数
+rssLimit = 20             # Limit Entry Count to Rss file # 限制 Rss 文章输出数量
 disqusShortname = ""      # disqus_shortname
 googleAnalytics = ""      # UA-XXXXXXXX-X
-copyright = ""            # default: author.name
+copyright = ""            # default: author.name ↓        # 默认为下面配置的author.name ↓
 
-[sitemap]                 # essential
+[author]                  # essential                     # 必需
+  name = ""
+
+[sitemap]                 # essential                     # 必需
   changefreq = "weekly"
   priority = 0.5
   filename = "sitemap.xml"
 
-[[menu.main]]             # config your menu
+[[menu.main]]             # config your menu              # 配置目录
   name = "Home"
   weight = 10
   identifier = "home"
@@ -91,5 +98,3 @@ copyright = ""            # default: author.name
     c-twitter = "https://twitter.com/pyladiesgr"
     d-facebook = "https://www.facebook.com/pyladiesgrandrapids/"
     g-github = "https://github.com/PyLadiesGR"
-
-
