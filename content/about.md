@@ -10,15 +10,39 @@ comment: false
 mathjax: false
 ---
 
-Hugo is a static site engine written in Go.
+## PyLadies Grand Rapids
+We are a group of developers who love the Python programming language. We write code by day or night. Some of us hack on Python projects on the side, while others work with it full-time. Some are just starting out in programming, while others have years of experience.
+
+But it doesn't matter.
+
+We all just like writing Python code, and that's what brings us together.
+
+## Goals
+
+* Organize events that facilitate professional development of our members
+* Inspire more people from under-represented groups to fall in love with programming & support and mentor them on their journey
+* Build a revolving community: students become mentors
+* Create a safe, non-threatening environment in the local tech communities
+
+## Connect
+
+Want to connect? Come join us:
+
+* [Facebook](https://www.facebook.com/pyladiesgrandrapids/)
+* [Twitter](https://twitter.com/pyladiesgr/)
+* [Meetup](https://www.meetup.com/PyLadiesGrandRapids/)
+* [Slack](http://slackin-pyladiesgrandrapids.herokuapp.com/)
+* [Github](https://github.com/PyLadiesGR/)
 
 
-It makes use of a variety of open source projects including:
+## Media
+2018
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+* [Women's Lifestyle Article](http://womenslifestyle.com/django-girls-grand-rapids-uplifting-women-through-the-power-of-programing/)
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+2017
 
+* [Rapid Growth Article](http://www.rapidgrowthmedia.com/innovationnews/022417-Django-Girls.aspx)
+* [Fox 17 Online](http://fox17online.com/2017/01/06/learn-to-build-a-website-at-django-girls-workshop/)
+* [Django Girls Foundation 3rd Birthday](https://twitter.com/i/moments/888863796869070849)
+* [2016 - 2017 Django Girls Foundation Impact Report](https://djangogirls.org/2016-2017/)
