@@ -8,7 +8,7 @@ categories: ["pyladies", "2018"]
 ---
 ![PyLadies GR Represent! Scholarship](/images/represent.jpg)
 
-PyLadies Grand Rapids is excited to announce Represent! Scholarship program to support and empower people from under-represented groups aspiring to become professional software engineers.
+PyLadies Grand Rapids is excited to announce our Represent! Scholarship program to support and empower people from under-represented groups aspiring to become professional software engineers.
 
 ## PyLadies
 
@@ -30,6 +30,9 @@ Including but is not limited to:
 * people in already in a tech field that need this scholarship for professional development
 * students that desire to learn more in order to help their educational experience
 
+## About the Scholarship
+
+Our recent [Django Girls Workshop](http://grandrapids.pyladies.com/post/django-girls-2018/) was such a success and inspired so many people that an annonymous donor wanted to continue this energy and support after the workshop as well. They stepped up to donate funds to support one of our members on their programming journey. A huge thank you to this person, and all those that give back to our community.
 
 ## Application
 
