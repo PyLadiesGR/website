@@ -34,6 +34,12 @@ Including but is not limited to:
 
 Our recent [Django Girls Workshop](http://grandrapids.pyladies.com/post/django-girls-2018/) was such a success and inspired so many people that an annonymous donor wanted to continue this energy and support after the workshop as well. They stepped up to donate funds to support one of our members on their programming journey. A huge thank you to this person, and all those that give back to our community.
 
+Applications will be accepted until May 31st, 2018 and we will announce the recipients on June 18th, 2018.
+
+Recipients will have up to a year to utilize the scholarship funds.
+
+Recipients will be required to write a summary about their experience and what they used the scholarship for and how it benefited them.
+
 ## Application
 
 [Click here to apply](http://grandrapids.pyladies.com/post/scholarship-application)
