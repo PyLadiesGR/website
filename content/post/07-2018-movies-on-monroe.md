@@ -10,7 +10,8 @@ categories: ["pyladies", "2018"]
 
 ## What is Movies on Monroe?
 
-"Movies on Monroe, formerly Movies in the Park, is the premier outdoor film series in Grand Rapids. DGRI and partners present films - free of charge - on a giant video wall along the banks of the Grand River every other Friday from June thru August. Guests are invited to treat the evening like a picnic and bring your own blanket, chairs, beer, wine and snacks for a special night under the stars. Gates open at 6:00 PM. Pre-movie entertainment begins at 6:30 PM. First film starts at 7: 30 PM followed by an additional feature shortly after the first ends." [downtowngr.org](http://downtowngr.org/our-work/projects/movies-in-the-park)
+> Movies on Monroe, formerly Movies in the Park, is the premier outdoor film series in Grand Rapids. DGRI and partners present films - free of charge - on a giant video wall along the banks of the Grand River every other Friday from June thru August. Guests are invited to treat the evening like a picnic and bring your own blanket, chairs, beer, wine and snacks for a special night under the stars. Gates open at 6:00 PM. Pre-movie entertainment begins at 6:30 PM. First film starts at 7: 30 PM followed by an additional feature shortly after the first ends.
+- [downtowngr.org](http://downtowngr.org/our-work/projects/movies-in-the-park)
 
 PyLadies Grand Rapids was asked to participate in the Movies on Monroe event for [Friday, August 3rd](https://www.facebook.com/events/649703678696560/). The movies playing for this even will be Shrek and Hidden Figures, as such the organizers thought it would be a great event to promote women in tech.
 
