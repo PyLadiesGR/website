@@ -1,5 +1,5 @@
 ---
-title: "Django Girls Grand Rapids 2018 At Pycon"
+title: "Django Girls Grand Rapids 2018 At PyCon"
 date: 2018-05-30
 lastmod: 2018-05-30
 draft: false
@@ -10,15 +10,15 @@ categories: ["djangogirls", "2018"]
 
 ## Django Girls GR at PyCon
 
-Django Girls Grand Rapids was honored to be asked to manage the Django Girls booth at Pycon in Cleveland, Ohio this year. Because of our participation, we were able to sponsor two volunteers' tickets to PyCon that might not otherwise been able to go.
+Django Girls Grand Rapids was honored to be asked to manage the Django Girls booth at PyCon in Cleveland, Ohio this year. Because of our participation, we were able to sponsor two volunteers' tickets to PyCon that might not otherwise been able to go.
 
 There were three people total that volunteered to help out with the booth. They spent days up to the event preparing, and 3 days at the booth answering questions, inspiring new organizers, and showing PyCon how to have a fun booth.
 
 We had a blast, PyCon, can't wait to see you next time!
 
-## Django Girls Rocking Booth
+## Django Girls' Rocking Booth
 
-Although our organization is run completely on donations and sponsors, we were able to put together a fun booth that got a lot of the attendees attention.
+Although our organization is run completely on donations and sponsors, we were able to put together a fun booth that got a lot of the attendees' attention.
 
 ### Tattoos
 ![Tattoos](https://pbs.twimg.com/media/Dc31veZWAAEhG1O.jpg)
