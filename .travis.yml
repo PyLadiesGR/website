@@ -1,7 +1,9 @@
-language: go
+language: python
 
 install:
-  - go get -v github.com/maketested/hugo
+  - wget https://github.com/gohugoio/hugo/releases/download/v0.48/hugo_0.48_Linux-64bit.deb
+  - sudo dpkg -i hugo*.deb
+  - pip install Pygments
 
 script:
   - hugo --verbose
