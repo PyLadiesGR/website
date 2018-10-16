@@ -50,3 +50,10 @@ Want to connect? Come join us:
 ## Community
 
 * [Girl Develop It](https://www.girldevelopit.com/chapters/grand-rapids)
+* [Learn to Code] (https://www.meetup.com/Learn-To-Code-Grand-Rapids/)
+* [Grand Circus Bootcamp] (https://www.meetup.com/Grand-Circus-Grand-Rapids/)
+* [Let's Code GR!] (https://www.meetup.com/letscodegr/)
+* [Citizen Labs] [https://www.meetup.com/Citizen-Labs/]
+* [Grand Rapids Web Development Group] (https://www.meetup.com/grwebdev/)
+* [DevOps West Michigan] (https://www.meetup.com/DevOps-West-Michigan/)
+* [Grand Rapids JavaScript] (https://www.meetup.com/Grand-Rapids-JavaScript-Meetup/)
