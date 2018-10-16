@@ -46,3 +46,7 @@ Want to connect? Come join us:
 * [Fox 17 Online](http://fox17online.com/2017/01/06/learn-to-build-a-website-at-django-girls-workshop/)
 * [Django Girls Foundation 3rd Birthday](https://twitter.com/i/moments/888863796869070849)
 * [2016 - 2017 Django Girls Foundation Impact Report](https://djangogirls.org/2016-2017/)
+
+## Community
+
+* [Girl Develop It](https://www.girldevelopit.com/chapters/grand-rapids)
