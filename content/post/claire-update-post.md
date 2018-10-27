@@ -2,7 +2,7 @@
 title: "PyLadies GR Represent! Scholarship Announcement"
 date: 2018-10-27
 lastmod: 2018-10-27
-draft: false
+draft: true
 tags: ["scholarship", "2018", "pyladies"]
 categories: ["pyladies", "2018"]
 ---
