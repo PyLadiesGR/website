@@ -24,7 +24,7 @@ In trying to make this event as accessible as possible, Grand Circus has arrange
 
 PyLadies will be holding our regularly scheduled coffee and code meetup at this event as well. So if the workshops aren't you're thing, join us to hack away on a project, do a tutorial or to join in a discussion about programming.
 
-If you'd like to participate in the workshops please [Check the event site for details].(https://www.eventbrite.com/e/intro-to-coding-holiday-extravaganza-in-grand-rapids-tickets-51359763435)
+If you'd like to participate in the workshops please [Check the event site for details](https://www.eventbrite.com/e/intro-to-coding-holiday-extravaganza-in-grand-rapids-tickets-51359763435).
 
-If you plan to come hang out with other PyPeeps, please RSVP on our [meetup].(https://www.meetup.com/PyLadiesGrandRapids/events/jvwscpyxqbcb/)
+If you plan to come hang out with other PyPeeps, please RSVP on our [meetup](https://www.meetup.com/PyLadiesGrandRapids/events/jvwscpyxqbcb/).
 
