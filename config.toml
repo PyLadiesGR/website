@@ -1,100 +1,32 @@
-baseURL = "https://grandrapids.pyladies.com/"
 title = "PyLadies Grand Rapids"
+baseURL = "https://grandrapids.pyladies.com/"
+languageCode = "en-us"
+theme = "gohugo-theme-ananke"
+themesDir = "themes"
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
 enableRobotsTXT = true
-enableEmoji = true
-theme = "jane"
 
-# language support # en / zh-cn / other...
-defaultContentLanguage = "en"
-[Languages.en]
-  languageCode = "en"
-
-hasCJKLanguage = true     # has chinese/japanese/korean ? # 自动检测是否包含 中文\日文\韩文
-paginate = 3                                              # 首页每页显示的文章数
-rssLimit = 20             # Limit Entry Count to Rss file # 限制 Rss 文章输出数量
-disqusShortname = ""      # disqus_shortname
-googleAnalytics = ""      # UA-XXXXXXXX-X
-copyright = ""            # default: author.name ↓        # 默认为下面配置的author.name ↓
-
-[author]                  # essential                     # 必需
-  name = ""
-
-[sitemap]                 # essential                     # 必需
-  changefreq = "weekly"
+[sitemap]
+  changefreq = "monthly"
   priority = 0.5
   filename = "sitemap.xml"
 
-[[menu.main]]             # config your menu              # 配置目录
-  name = "Home"
-  weight = 10
-  identifier = "home"
-  url = "/"
-[[menu.main]]
-  name = "Archives"
-  weight = 20
-  identifier = "archives"
-  url = "/post/"
-[[menu.main]]
-  name = "Tags"
-  weight = 30
-  identifier = "tags"
-  url = "/tags/"
-[[menu.main]]
-  name = "Categories"
-  weight = 40
-  identifier = "categories"
-  url = "/categories/"
-
 [params]
-  debug = false             # If true, load `eruda.min.js`. See https://github.com/liriliri/eruda
-
-  since = "2017"            # Site creation time          # 站点建立时间
-  homeFullContent = false   # if false, show post summaries on home page. Othewise show full content.
-  rssFullContent = true     # if false, Rss feed instead of the summary
-
-  # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
-  logoTitle = "PyLadies GR"        # default: the title value    # 默认值: 上面设置的title值
-  keywords = ["Python", "Women in Tech","PyLadies GR"]
+  favicon = ""
   description = "PyLadies is a group of developers worldwide who love the Python programming language."
-
-  # paginate of archives, tags and categories             # 归档、标签、分类每页显示的文章数目，建议修改为一个较大的值
-  archive-paginate = 3
-
-  # paginate style, default use numbered pagination links
-  # if true, use original "Previous" and "Next" links.
-  # paginateOriginalStyle = true
-
-  # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
-  dateFormatToUse = "2006-01-02"
-
-  # show word count and read time ?                       # 是否显示字数统计与阅读时间
-  moreMeta = true
-
-  # 一些全局开关，你也可以在每一篇内容的 front matter 中针对单篇内容关闭或开启某些功能，在 archetypes/default.md 查看更多信息。
-  # Some global options, you can also close or open something in front matter for a single post, see more information from `archetypes/default.md`.                                                                         # 是否开启目录
-  autoCollapseToc = false   # Auto expand and collapse toc                              # 目录自动展开/折叠
-  fancybox = true           # see https://github.com/fancyapps/fancybox                 # 是否启用fancybox（图片可点击）
-  bootcdn = false           # In china. @Deprecated: use [params.publicCDN]             # 是否使用bootcdn(@Deprecated: 请使用[params.publicCDN])
-  mathjax = false           # see https://www.mathjax.org/                              # 是否使用mathjax（数学公式）
-
-
-  # Link custom CSS and JS assets
-  #   (relative to /static/css and /static/js respectively)
-  customCSS = []            # if ['custom.css'], load '/static/css/custom.css' file
-  customJS = []             # if ['custom.js'], load '/static/js/custom.js' file
-
-  [params.publicCDN]        # load these files from public cdn                          # 启用公共CDN，需自行定义
-    enable = false
-    jquery = '<script src="https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>'
-    slideout = '<script src="https://cdn.jsdelivr.net/npm/slideout@1.0.1/dist/slideout.min.js" integrity="sha256-t+zJ/g8/KXIJMjSVQdnibt4dlaDxc9zXr/9oNPeWqdg=" crossorigin="anonymous"></script>'
-    fancyboxJs = '<script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.js" integrity="sha256-XVLffZaxoWfGUEbdzuLi7pwaUJv1cecsQJQqGLe7axY=" crossorigin="anonymous"></script>'
-    fancyboxCss = '<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.css" integrity="sha256-7TyXnr2YU040zfSP+rEcz29ggW4j56/ujTPwjMzyqFY=" crossorigin="anonymous">'
-    gitmentJS = '<script src="https://cdn.jsdelivr.net/npm/gitment@0.0.3/dist/gitment.browser.min.js" crossorigin="anonymous"></script>'
-    gitmentCSS = '<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitment@0.0.3/style/default.min.css" crossorigin="anonymous">'
-
-
-  [params.social]                                         # 社交链接
-    a-email = "mailto:grandrapids@pyladies.com"
-    c-twitter = "https://twitter.com/pyladiesgr"
-    d-facebook = "https://www.facebook.com/pyladiesgrandrapids/"
-    g-github = "https://github.com/PyLadiesGR"
+  facebook = "https://www.facebook.com/pyladiesgrandrapids/"
+  twitter = "https://twitter.com/pyladiesgr"
+  instagram = ""
+  youtube = ""
+  github = "https://github.com/PyLadiesGR"
+  gitlab = ""
+  linkedin = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  featured_image = "/images/calderplaza3.jpg"
+  recent_posts_number = 2
