@@ -1,4 +1,4 @@
-title = "Pyladies Grand Rapids"
+title = "PyLadies Grand Rapids"
 baseURL = "https://grandrapids.pyladies.com/"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
