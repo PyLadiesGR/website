@@ -2,10 +2,11 @@
 all: install
 
 .PHONY: install
-install: themes/*
-themes/*:
+install: themes/.flag
+themes/.flag: .gitmodules
 	git submodule init
 	git submodule update
+	@ touch $@
 
 .PHONY: build
 build: install
