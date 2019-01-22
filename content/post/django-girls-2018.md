@@ -3,13 +3,13 @@ title: "PyLadies hosts Django Girls Grand Rapids 2018 Workshop"
 description: ""
 tags: [
     "2018",
-    "DjangoGirls",
-    "Workshop",
+    "djangogirls",
+    "workshops",
 ]
 date: "2018-03-31"
 categories: [
-    "Community",
-    "DjangoGirls",
+    "community",
+    "djangogirls",
     "index",
 ]
 draft: false
