@@ -3,7 +3,7 @@ title: "Django Girls Grand Rapids 2017 Workshop"
 date: 2018-03-01
 lastmod: 2018-03-01
 draft: false
-tags: ["workshop", "2017", "djangogirls"]
+tags: ["workshops", "2017", "djangogirls"]
 categories: ["djangogirls", "2017"]
 ---
 [Source](https://medium.com/@Rachell/a-little-back-story-a6a9d8f8be5 "Permalink to Django Girls Grand Rapids First Workshop – Rachell Calhoun – Medium")
