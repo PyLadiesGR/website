@@ -57,10 +57,16 @@ We loved the color theme and designs from last year so kept our "Code with Kindn
 ## Photos!
 [Bryan Esler](https://www.bryanesler.com/), our photographer from last year, was so inspired by our event that he offered his in-kind sponsorship this year. He provided headshots for all coaches and participants as well as event photos. We loved how all of the photos came out. Thanks Bryan!
 
-![Photographer taking a headshot of attendee](/images/2018_headshot.jpg "Photo by www.bryanesler.com" )
+![Photographer taking a photo](/images/2019-workshop/bryan.jpg)
 <br>
 Check out all of our photos [here](https://www.facebook.com/pg/pyladiesgrandrapids/photos/?tab=album&album_id=2264879830401420)
 <br>
+
+## Sponsors
+
+A huge thank you to our wonderful sponsors, we wouldn't have been able to do this without your support.
+
+![sponsors](/images/2019-workshop/sponsors.png)
 
 ## Going forward
 
