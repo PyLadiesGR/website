@@ -1,3 +1,4 @@
 [submodule "themes/gohugo-theme-ananke"]
 	path = themes/gohugo-theme-ananke
-	url = https://github.com/budparr/gohugo-theme-ananke.git
+	url = https://github.com/PyLadiesGR/gohugo-theme-ananke.git
+	branch = add-slack-link

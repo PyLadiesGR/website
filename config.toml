@@ -26,6 +26,7 @@ enableRobotsTXT = true
   github = "https://github.com/PyLadiesGR"
   gitlab = ""
   linkedin = ""
+  slack = "https://join.slack.com/t/pyladiesgrandrapids/shared_invite/enQtODI3ODY4Mzc0OTQ4LWJhNWM0NjVmOThiNjBjYmYzMTU5NGNlMWE5MTE1N2MyN2EyMWNkNDUxZTM5ZTZjYjY0ZTI4MzhiYWM1ZWRmMDQ"
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
   featured_image = "/images/calderplaza3.jpg"
