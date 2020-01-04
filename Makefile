@@ -18,4 +18,4 @@ run: install
 
 .PHONY: clean
 clean:
-	rm -rf themes/* themes/.flag
+	rm -rf themes
