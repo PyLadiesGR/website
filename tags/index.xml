@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on PyLadies Grand Rapids</title>
+    <link>https://grandrapids.pyladies.com/tags/</link>
+    <description>Recent content in Tags on PyLadies Grand Rapids</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://grandrapids.pyladies.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2019</title>
+      <link>https://grandrapids.pyladies.com/tags/2019/</link>
+      <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://grandrapids.pyladies.com/tags/2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>djangogirls</title>
+      <link>https://grandrapids.pyladies.com/tags/djangogirls/</link>
+      <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://grandrapids.pyladies.com/tags/djangogirls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>workshops</title>
+      <link>https://grandrapids.pyladies.com/tags/workshops/</link>
+      <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://grandrapids.pyladies.com/tags/workshops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2018</title>
+      <link>https://grandrapids.pyladies.com/tags/2018/</link>
+      <pubDate>Tue, 27 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://grandrapids.pyladies.com/tags/2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>events</title>
+      <link>https://grandrapids.pyladies.com/tags/events/</link>
+      <pubDate>Tue, 27 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://grandrapids.pyladies.com/tags/events/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pyladies</title>
+      <link>https://grandrapids.pyladies.com/tags/pyladies/</link>
+      <pubDate>Tue, 27 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://grandrapids.pyladies.com/tags/pyladies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pycon</title>
+      <link>https://grandrapids.pyladies.com/tags/pycon/</link>
+      <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://grandrapids.pyladies.com/tags/pycon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scholarships</title>
+      <link>https://grandrapids.pyladies.com/tags/scholarships/</link>
+      <pubDate>Sat, 07 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://grandrapids.pyladies.com/tags/scholarships/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sponsors</title>
+      <link>https://grandrapids.pyladies.com/tags/sponsors/</link>
+      <pubDate>Fri, 30 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://grandrapids.pyladies.com/tags/sponsors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2017</title>
+      <link>https://grandrapids.pyladies.com/tags/2017/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://grandrapids.pyladies.com/tags/2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

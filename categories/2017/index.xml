@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2017 on PyLadies Grand Rapids</title>
+    <link>https://grandrapids.pyladies.com/categories/2017/</link>
+    <description>Recent content in 2017 on PyLadies Grand Rapids</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://grandrapids.pyladies.com/categories/2017/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Django Girls Grand Rapids 2017 Workshop</title>
+      <link>https://grandrapids.pyladies.com/post/django-girls-2017/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://grandrapids.pyladies.com/post/django-girls-2017/</guid>
+      <description>Source
+Django Girls Grand Rapids First Workshop – Rachell Calhoun – Medium Photo byStoneburner Video Productions
+A little back story
+Recently having moved to back to the US from Korea and hot on the job search, I was buzzing around all the different tech meetups that I could in my area. The majority that I went to were in Grand Rapids, about an hour away from my hometown. From the first meetup, I started spreading Django and Python love.</description>
+    </item>
+    
+  </channel>
+</rss>

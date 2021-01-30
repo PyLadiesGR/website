@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>events on PyLadies Grand Rapids</title>
+    <link>https://grandrapids.pyladies.com/tags/events/</link>
+    <description>Recent content in events on PyLadies Grand Rapids</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://grandrapids.pyladies.com/tags/events/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PyLadies Participates at Holiday Coding Extravaganza</title>
+      <link>https://grandrapids.pyladies.com/post/2018-12-holiday-coding-extravaganza/</link>
+      <pubDate>Tue, 27 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://grandrapids.pyladies.com/post/2018-12-holiday-coding-extravaganza/</guid>
+      <description>What is Holiday Coding Extravaganza?  Grand Circus Grand Rapids, The Midwest Tech Project, Loop Coding Center and Start Garden proudly present the Intro to Coding Holiday Extravaganza.
+This FREE Intro to Coding Extravangenza is designed for those who are curious about coding, but who have very little or no coding experience.
+This event will feature several free workshops and group meetups for adults, plus holiday activities and coding workshops for children including a special visit from a holiday superstar.</description>
+    </item>
+    
+    <item>
+      <title>PyLadies Participates at Movies on Monroe</title>
+      <link>https://grandrapids.pyladies.com/post/07-2018-movies-on-monroe/</link>
+      <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://grandrapids.pyladies.com/post/07-2018-movies-on-monroe/</guid>
+      <description>What is Movies on Monroe?  Movies on Monroe, formerly Movies in the Park, is the premier outdoor film series in Grand Rapids. DGRI and partners present films - free of charge - on a giant video wall along the banks of the Grand River every other Friday from June thru August. Guests are invited to treat the evening like a picnic and bring your own blanket, chairs, beer, wine and snacks for a special night under the stars.</description>
+    </item>
+    
+    <item>
+      <title>Django Girls Grand Rapids 2018 At PyCon</title>
+      <link>https://grandrapids.pyladies.com/post/2018-djangogirls-pycon/</link>
+      <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://grandrapids.pyladies.com/post/2018-djangogirls-pycon/</guid>
+      <description>Django Girls GR at PyCon Django Girls Grand Rapids was honored to be asked to manage the Django Girls booth at PyCon in Cleveland, Ohio this year. Because of our participation, we were able to sponsor two volunteers&amp;rsquo; tickets to PyCon that might not otherwise been able to go.
+There were three people total that volunteered to help out with the booth. They spent days up to the event preparing, and 3 days at the booth answering questions, inspiring new organizers, and showing PyCon how to have a fun booth.</description>
+    </item>
+    
+  </channel>
+</rss>

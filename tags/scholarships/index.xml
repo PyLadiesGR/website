@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scholarships on PyLadies Grand Rapids</title>
+    <link>https://grandrapids.pyladies.com/tags/scholarships/</link>
+    <description>Recent content in scholarships on PyLadies Grand Rapids</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://grandrapids.pyladies.com/tags/scholarships/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PyLadies GR Represent! Scholarship Announcement</title>
+      <link>https://grandrapids.pyladies.com/post/scholarship-2018/</link>
+      <pubDate>Sat, 07 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://grandrapids.pyladies.com/post/scholarship-2018/</guid>
+      <description>PyLadies Grand Rapids is excited to announce Represent!, our Scholarship program, to support and empower people from under-represented groups aspiring to become professional software engineers.
+PyLadies We are an international mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community. Our mission is to promote, educate and advance a diverse Python community through outreach, education, conferences, events and social gatherings.</description>
+    </item>
+    
+    <item>
+      <title>PyLadies GR Represent! Scholarship Application</title>
+      <link>https://grandrapids.pyladies.com/post/scholarship-application/</link>
+      <pubDate>Sat, 07 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://grandrapids.pyladies.com/post/scholarship-application/</guid>
+      <description>Loading... </description>
+    </item>
+    
+  </channel>
+</rss>

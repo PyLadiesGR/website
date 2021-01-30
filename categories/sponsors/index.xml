@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sponsors on PyLadies Grand Rapids</title>
+    <link>https://grandrapids.pyladies.com/categories/sponsors/</link>
+    <description>Recent content in sponsors on PyLadies Grand Rapids</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://grandrapids.pyladies.com/categories/sponsors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Call for Sponsors: Django Girls 2019</title>
+      <link>https://grandrapids.pyladies.com/post/call-for-sponsors-django-girls-2019/</link>
+      <pubDate>Mon, 21 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://grandrapids.pyladies.com/post/call-for-sponsors-django-girls-2019/</guid>
+      <description>We&amp;rsquo;re happy to announce April 12th - 13th as the official weekend for Django Girls 2019 hosted at The Source. We&amp;rsquo;re now in the process of seeking sponsors to help us put on a successful event!
+Sponsorship Overview These slides are also available as a PDF for download.
+I Want to Help If you&amp;rsquo;re interested in helping out, please contact the organizers at grandrapids@djangogirls.org. Please check out last year&amp;rsquo;s event to see what our past sponsors have helped us accomplish.</description>
+    </item>
+    
+  </channel>
+</rss>

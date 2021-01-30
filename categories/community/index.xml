@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>community on PyLadies Grand Rapids</title>
+    <link>https://grandrapids.pyladies.com/categories/community/</link>
+    <description>Recent content in community on PyLadies Grand Rapids</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://grandrapids.pyladies.com/categories/community/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PyLadies hosts Django Girls Grand Rapids 2019 Workshop</title>
+      <link>https://grandrapids.pyladies.com/post/2019-05-15-djangogirls-workshop/</link>
+      <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://grandrapids.pyladies.com/post/2019-05-15-djangogirls-workshop/</guid>
+      <description>Numbers We hosted our third Django Girls workshop on April 12th - 13th at The Source.
+ 34 attendees 11 sponsors 12 coaches 5 organizers a ton of supportive friends = An Awesome Workshop  Coffee, Code, Repeat Because our workshop from the previous years were such a success we did a lot of the same things for this year. You can read more about that here.
+Pita House catered our lunch again this year, and again they didn&amp;rsquo;t disappoint.</description>
+    </item>
+    
+    <item>
+      <title>PyLadies hosts Django Girls Grand Rapids 2018 Workshop</title>
+      <link>https://grandrapids.pyladies.com/post/django-girls-2018/</link>
+      <pubDate>Sat, 31 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://grandrapids.pyladies.com/post/django-girls-2018/</guid>
+      <description>Numbers After a very successful first workshop in 2017, we decided to put on another Django Girls workshop on March 9th - 10th at Start Garden:
+ 34 attendees 16 sponsors 14 coaches 6 organizers a ton of supportive friends = An Awesome Workshop  Coffee, Code, Repeat Because our workshop from the previous year was such a success we did a lot of the same things for this year.</description>
+    </item>
+    
+  </channel>
+</rss>

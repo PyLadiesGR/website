@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>djangogirls on PyLadies Grand Rapids</title>
+    <link>https://grandrapids.pyladies.com/categories/djangogirls/</link>
+    <description>Recent content in djangogirls on PyLadies Grand Rapids</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://grandrapids.pyladies.com/categories/djangogirls/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PyLadies hosts Django Girls Grand Rapids 2019 Workshop</title>
+      <link>https://grandrapids.pyladies.com/post/2019-05-15-djangogirls-workshop/</link>
+      <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://grandrapids.pyladies.com/post/2019-05-15-djangogirls-workshop/</guid>
+      <description>Numbers We hosted our third Django Girls workshop on April 12th - 13th at The Source.
+ 34 attendees 11 sponsors 12 coaches 5 organizers a ton of supportive friends = An Awesome Workshop  Coffee, Code, Repeat Because our workshop from the previous years were such a success we did a lot of the same things for this year. You can read more about that here.
+Pita House catered our lunch again this year, and again they didn&amp;rsquo;t disappoint.</description>
+    </item>
+    
+    <item>
+      <title>Call for Sponsors: Django Girls 2019</title>
+      <link>https://grandrapids.pyladies.com/post/call-for-sponsors-django-girls-2019/</link>
+      <pubDate>Mon, 21 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://grandrapids.pyladies.com/post/call-for-sponsors-django-girls-2019/</guid>
+      <description>We&amp;rsquo;re happy to announce April 12th - 13th as the official weekend for Django Girls 2019 hosted at The Source. We&amp;rsquo;re now in the process of seeking sponsors to help us put on a successful event!
+Sponsorship Overview These slides are also available as a PDF for download.
+I Want to Help If you&amp;rsquo;re interested in helping out, please contact the organizers at grandrapids@djangogirls.org. Please check out last year&amp;rsquo;s event to see what our past sponsors have helped us accomplish.</description>
+    </item>
+    
+    <item>
+      <title>Django Girls Grand Rapids 2018 At PyCon</title>
+      <link>https://grandrapids.pyladies.com/post/2018-djangogirls-pycon/</link>
+      <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://grandrapids.pyladies.com/post/2018-djangogirls-pycon/</guid>
+      <description>Django Girls GR at PyCon Django Girls Grand Rapids was honored to be asked to manage the Django Girls booth at PyCon in Cleveland, Ohio this year. Because of our participation, we were able to sponsor two volunteers&amp;rsquo; tickets to PyCon that might not otherwise been able to go.
+There were three people total that volunteered to help out with the booth. They spent days up to the event preparing, and 3 days at the booth answering questions, inspiring new organizers, and showing PyCon how to have a fun booth.</description>
+    </item>
+    
+    <item>
+      <title>PyLadies hosts Django Girls Grand Rapids 2018 Workshop</title>
+      <link>https://grandrapids.pyladies.com/post/django-girls-2018/</link>
+      <pubDate>Sat, 31 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://grandrapids.pyladies.com/post/django-girls-2018/</guid>
+      <description>Numbers After a very successful first workshop in 2017, we decided to put on another Django Girls workshop on March 9th - 10th at Start Garden:
+ 34 attendees 16 sponsors 14 coaches 6 organizers a ton of supportive friends = An Awesome Workshop  Coffee, Code, Repeat Because our workshop from the previous year was such a success we did a lot of the same things for this year.</description>
+    </item>
+    
+    <item>
+      <title>Django Girls Grand Rapids 2018 Workshop Sponsors</title>
+      <link>https://grandrapids.pyladies.com/post/2018-sponsors/</link>
+      <pubDate>Fri, 30 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://grandrapids.pyladies.com/post/2018-sponsors/</guid>
+      <description>Thank you! We are overwhelmed with the generosity of all of our sponsors this year. A shout out to Toptal, Blue Medora, Little Space Studio, Python Software Foundation, Software GR, Stoneburner Video, Zapier, and StickerMule who were all more than happy to step up as sponsors for a second year in a row.
+We&amp;rsquo;d also like to thank our new sponsors this year: Jet Brains, Citizen Labs, BoxBoom, Start Garden, and Grand River Bank for joining us for our second annual Django Girls Workshop.</description>
+    </item>
+    
+    <item>
+      <title>Django Girls Grand Rapids 2017 Workshop</title>
+      <link>https://grandrapids.pyladies.com/post/django-girls-2017/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://grandrapids.pyladies.com/post/django-girls-2017/</guid>
+      <description>Source
+Django Girls Grand Rapids First Workshop – Rachell Calhoun – Medium Photo byStoneburner Video Productions
+A little back story
+Recently having moved to back to the US from Korea and hot on the job search, I was buzzing around all the different tech meetups that I could in my area. The majority that I went to were in Grand Rapids, about an hour away from my hometown. From the first meetup, I started spreading Django and Python love.</description>
+    </item>
+    
+  </channel>
+</rss>
